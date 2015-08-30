@@ -2,7 +2,7 @@
 .. pakage:: dataholder
     :synopsis: Trick for assignment in an if statement
 """
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 __email__ = '@'.join(['petr.cons', 'gmail.com'])
 __license__ = 'MIT'
 

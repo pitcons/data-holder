@@ -18,7 +18,6 @@ setup(
     version=dataholder.__version__,
     description='Trick for assignment in an if statement',
     long_description=open('README.rst').read(),
-    license=open('LICENSE').read(),
     url='https://github.com/pitcons/dataholder',
     install_requires=[''],
     packages=['dataholder'],
